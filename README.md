@@ -1,0 +1,3 @@
+# Turn this into something beautiful...
+
+The RoR Sample_App into [GroupCS2](http://www.groupcs2.com/)'s mock website.
